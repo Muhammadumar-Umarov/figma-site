@@ -96,6 +96,11 @@
         .footer__wrapper{
             grid-template-columns: 1fr;
             gap: 32px;
+            .footer__box{
+                .navbar__logo p{
+                    font-size: 20px;
+                }
+            }
         }
     }
 }

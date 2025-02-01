@@ -375,4 +375,7 @@ button:hover {
     grid-template-columns: 1fr;
     gap: 32px;
   }
+  .footer .footer__wrapper .footer__box .navbar__logo p {
+    font-size: 20px;
+  }
 }/*# sourceMappingURL=main.css.map */
